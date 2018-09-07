@@ -1,6 +1,6 @@
 # Catch the food
 > Catch the food is the mini Phaser game.
-Link to demo: https://laililang.github.io/Catch-the-food/
+Link to demo: https://arleta-jedrzejczak.github.io/Catch-the-food/
 
 ## Table of contents
 * [Technologies](#technologies)
