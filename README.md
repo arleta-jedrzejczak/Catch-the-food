@@ -31,6 +31,6 @@ Project is finished :)
 This project is licensed under the terms of the MIT license.
 
 ## Contact
-Created by Arleta Jędrzejczak(https://laililang.github.com/Memory/) - feel free to contact me!
+Created by Arleta Jędrzejczak(https://arleta-jedrzejczak.github.com/Memory/) - feel free to contact me!
 
 For detailed explanation on how things work, check out the [docs for Phaser CE](https://photonstorm.github.io/phaser-ce/).
